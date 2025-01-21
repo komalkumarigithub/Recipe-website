@@ -10,3 +10,8 @@ Detailed Information: Each recipe comes with a wealth of information, including 
 Save Favorites: Keep track of your favorite recipes by saving them to your profile. No more flipping through cookbooks or searching through bookmarks; your go-to recipes are just a click away.
 
 User-Friendly Interface: Our intuitive interface makes it easy to navigate and explore recipes, so you can spend less time searching and more time cooking.
+
+Technologies Used : 
+React
+Styled Components
+Spoonacular API
