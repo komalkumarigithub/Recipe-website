@@ -13,5 +13,5 @@ User-Friendly Interface: Our intuitive interface makes it easy to navigate and e
 
 Technologies Used : 
 React
-Styled Components
-Spoonacular API
+,Styled Components
+,Spoonacular API
